@@ -1,6 +1,6 @@
 # DesignPattern-Builder
 ## People task
-### Descrioption
+### Description
 In this task, we will practice with the Builder template. We will design a Person class in which data about a person will be stored:
 * Name (```String```). Everyone must have a name, and it cannot be changed from the moment the object is created.
 * Last name (```String```). Everyone is obliged to have a surname, and it cannot be changed from the moment the object is created.
